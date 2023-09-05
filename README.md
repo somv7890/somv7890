@@ -7,4 +7,4 @@
 - 🌱 I’m presently learning  C programming, github and lunix
 - 💬I love exploring different hobbies.
  
-- ⚡ Fun fact about me :  I love astronomy![image](https://github.com/somv7890/somv7890/assets/144117317/f757639e-c527-4cb8-9e5a-edbc9a9dac42)
+- ⚡ Fun fact about me :  I love astronomy!
